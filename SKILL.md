@@ -4,7 +4,8 @@ description: Analyze situations, policies, or actions through the lens of natura
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4565
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - natural-rights-assessment
 - writing
